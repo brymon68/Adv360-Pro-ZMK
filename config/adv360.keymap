@@ -44,7 +44,7 @@
    &kp TAB   &kp Q     &kp W   &kp E   &kp R   &kp T               &none                                                                    &none   &kp Y   &kp U      &kp I     &kp O     &kp P   &kp BSLH
  &lt 2 ESC   &kp A     &kp S   &kp D   &kp F   &kp G               &none     &none         &none                   &kp LGUI  &kp RCTRL      &none   &kp H   &kp J      &kp K     &kp L  &kp SEMI    &kp SQT
  &kp LSHFT   &kp Z     &kp X   &kp C   &kp V   &kp B                                    &kp CAPS                  &kp PG_UP                         &kp N   &kp M  &kp COMMA   &kp DOT  &kp FSLH  &kp RSHFT
- &kp LCTRL   &mo 3  &kp CAPS   &none   &none                    &kp BSPC  &kp LCMD  &kp LEFT_ALT                  &kp GRAVE   &kp BSPC  &kp SPACE           &none      &none  &kp LBKT  &kp RBKT      &mo 3
+ &kp LCTRL   &mo 3  &kp CAPS   &none   &none                    &kp BSPC  &kp LCMD  &kp LEFT_ALT                  &kp GRAVE  &kp ENTER  &kp SPACE           &none      &none  &kp LBKT  &kp RBKT      &mo 3
             >;
         };
 
@@ -64,7 +64,7 @@
  &trans          &trans          &kp LEFT_BRACE      &kp EQUAL          &kp RIGHT_BRACE         &trans                    &none                                                                    &none    &trans    &trans  &trans     &trans   &trans   &trans
  &trans   &kp RA(RS(A))        &kp LEFT_BRACKET      &kp MINUS        &kp RIGHT_BRACKET  &kp RA(RS(D))            &kp RA(RS(E))        &trans  &trans                  &trans     &trans  &kp RA(RS(N0))  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT   &trans   &trans
  &trans          &trans  &kp LG(LS(LEFT_BRACE))  &kp RA(RS(R))  &kp LG(LS(RIGHT_BRACE))         &trans                                         &trans                  &trans                               &trans    &trans  &trans     &trans   &trans   &trans
- &trans          &trans                  &trans         &trans                   &trans                                 &kp DEL  &kp LEFT_ALT  &trans                  &trans  &kp ENTER       &kp LS(ENTER)              &trans  &trans     &trans   &trans   &trans
+ &trans          &trans                  &trans         &trans                   &trans                                 &kp DEL  &kp LEFT_ALT  &trans                  &trans  &kp ENTER           &none              &trans  &trans     &trans   &trans   &trans
             >;
         };
 
